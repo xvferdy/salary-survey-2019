@@ -1,0 +1,81 @@
+.content {
+    text-align: center;
+}
+
+.question {
+    margin-top: 50px;
+    font-size: 60px;
+}
+
+.button {
+    margin-top: 90px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 110px;
+    width: 250px;
+    background-color: rgb(212, 107, 8);
+    display: inline-block;
+    font-size: 70px;
+    color: white;
+    line-height: 110px;
+    cursor: pointer;
+}
+
+.tidak1 {
+    margin-left: 100px;
+}
+
+.tidak3 {
+    margin-top: 130px;
+    margin-left: 100px;
+}
+
+p {
+    margin-top: 90px;
+}
+
+
+.result {
+    margin-top: 20px;
+    font-size: 90px;
+    color: rgb(212, 107, 8);
+}
+
+.result2 {
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+.result3 {
+    font-size: 30px;
+}
+
+.result4 {
+    margin-top: 95px;
+    font-size: 40px;
+}
+
+.result5 {
+    font-size: 40px;
+    font-size: 60px;
+    color: rgb(212, 107, 8);
+}
+
+.result6 {
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+.buttonkirim {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 60px;
+    width: 280px;
+    background-color: rgb(212, 107, 8);
+    display: inline-block;
+    font-size: 40px;
+    color: white;
+    line-height: 60px;
+    cursor: pointer;
+}
