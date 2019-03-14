@@ -1,5 +1,8 @@
 .content {
     text-align: center;
+    /* background-color: pink; */
+    width: 900px;
+    margin: 0 auto;
 }
 
 .question {
@@ -9,8 +12,8 @@
 
 .button {
     margin-top: 90px;
-    margin-left: 100px;
-    margin-right: 100px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
     height: 110px;
     width: 250px;
     background-color: rgb(212, 107, 8);
@@ -25,15 +28,19 @@
     margin-left: 100px;
 }
 
+.tidak2 {
+    visibility: hidden;
+}
+
 .tidak3 {
     margin-top: 130px;
     margin-left: 100px;
+    visibility: hidden;
 }
 
 p {
     margin-top: 90px;
 }
-
 
 .result {
     margin-top: 20px;
@@ -78,4 +85,12 @@ p {
     color: white;
     line-height: 60px;
     cursor: pointer;
+}
+
+.ilang {
+    visibility: hidden;
+}
+
+.ada {
+    visibility: visible;
 }
