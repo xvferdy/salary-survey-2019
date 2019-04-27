@@ -15,8 +15,8 @@
 - Vanilla Javascript
 
 **_Links .._** 
-- _See it live! [Here](https://xvferdy.github.io/salary-survey-2019/)_
-
+- _See it live! <a href="https://xvferdy.github.io/salary-survey-2019/" target="_blank">Here</a>_
+    
 **_Acknowledgements .._**
 - [GitHub Pages](https://pages.github.com)
 - [Joel-James](https://gist.github.com/Joel-James)  
