@@ -14,11 +14,11 @@
 - CSS
 - Vanilla Javascript
 
-**_Links .._** 
+**Links ..** 
 - _See it live! <a href="https://xvferdy.github.io/salary-survey-2019/" target="_blank">Here</a>_
     
-**_Acknowledgements .._**
-- [GitHub Pages](https://pages.github.com)
+**Acknowledgements ..**
+- _[GitHub Pages](https://pages.github.com)_
 - [Joel-James](https://gist.github.com/Joel-James)  
 
 - - -
