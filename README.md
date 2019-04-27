@@ -1,7 +1,7 @@
 # Salary Survey 2019
 
 **Repo ini dibuat untuk ..**
-
+<img align="right" src="README-docs/images/2019-04-28_03-46-45.gif" height="500" width="450">
 
 - Belajar javascript dasar
 - Belajar `event` pada javascript
