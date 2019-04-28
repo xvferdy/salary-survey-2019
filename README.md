@@ -6,10 +6,12 @@
 **Repo ini dibuat untuk ..**
 <img align="right" src="README-docs/images/2019-04-28_03-46-45.gif" height="500" width="450">
 
-- Belajar javascript dasar
 - Belajar `event` pada javascript
 - Belajar _document object model_ (DOM)
 - Dan belajar dasar-dasar web programming
+
+**What the project does:**
+- ...Troll your friend with fake survey
 
 **Dibuat menggunakan ..**
 - Notepad++
