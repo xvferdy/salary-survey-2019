@@ -10,8 +10,8 @@
 - Belajar _document object model_ (DOM)
 - Dan belajar dasar-dasar web programming
 
-**What the project does:**
-- ...Troll your friend with fake survey
+**What the project does ..**
+- Troll your friends with fake survey
 
 **Dibuat menggunakan ..**
 - Notepad++
